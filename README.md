@@ -1,6 +1,7 @@
 # AI-Powered-Greenhouse-with-SWARM-Robotics
 
 THE PROBLEM:
+
 More than 29% of the world is suffering from food scarcity, and with climate change and global warming getting worse over the years, the problem is not getting any better.
 
 Farmers now have to find alternatives to regular farming as a result of global warming, which is why greenhouse farming has grown so quickly over the last few years. However, greenhouse farming is, 
@@ -14,6 +15,7 @@ All these issues make greenhouse farming less appealing and therefore, doesn't r
 
 
 OUR SOLUTION:
+
 Creating an AI-Powered Greenhouse With SWARM Robotics 
 
 1.) Using SWARM Robots to
@@ -33,6 +35,7 @@ Sustainable
 
 
 HOW WILL IT WORK?:
+
 -Monitor Crop Health: Use of camera/color sensor to recognize healthy and unhealthy plants.
 -Recognize Specific Plants:  Be able to recognize each plant and make unique decisions.
 -Moisture Level: Check the Moisture Level of the Plants and decide whether they need water.
