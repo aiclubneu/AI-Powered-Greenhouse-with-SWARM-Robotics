@@ -14,6 +14,7 @@ Farmers now have to find alternatives to regular farming as a result of global w
 All these issues make greenhouse farming less appealing and therefore, doesn't really help in mitigating global hunger.
 
 
+
 OUR SOLUTION:
 
 Creating an AI-Powered Greenhouse With SWARM Robotics 
@@ -32,6 +33,7 @@ Make Decisions related to Pest Control, Diseases, and Crop Yield
 Increased Efficiency
 Greater Output 
 Sustainable 
+
 
 
 HOW WILL IT WORK?:
