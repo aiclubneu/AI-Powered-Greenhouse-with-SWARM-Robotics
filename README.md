@@ -39,9 +39,13 @@ Sustainable
 HOW WILL IT WORK?:
 
 -Monitor Crop Health: Use of camera/color sensor to recognize healthy and unhealthy plants.
+
 -Recognize Specific Plants:  Be able to recognize each plant and make unique decisions.
+
 -Moisture Level: Check the Moisture Level of the Plants and decide whether they need water.
+
 -Ready for Harvest: Observe crops and decide whether it’s ready for harvest based on color, size, etc.
+
 -Weed Recognition: Use predictive analysis and cameras to recognize, remove, and prevent weeds. 
 
 
