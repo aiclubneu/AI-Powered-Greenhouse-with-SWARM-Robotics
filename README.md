@@ -5,11 +5,11 @@ THE PROBLEM:
 More than 29% of the world is suffering from food scarcity, and with climate change and global warming getting worse over the years, the problem is not getting any better.
 
 Farmers now have to find alternatives to regular farming as a result of global warming, which is why greenhouse farming has grown so quickly over the last few years. However, greenhouse farming is, 
-•	less productive 
-•	more expensive 
-•	higher risk
-•	less diverse
-•	limited on scalability 
+less productive 
+more expensive 
+higher risk
+less diverse
+limited on scalability 
 
 All these issues make greenhouse farming less appealing and therefore, doesn't really help in mitigating global hunger.
 
