@@ -1,4 +1,4 @@
-# AI-Powered-Greenhouse-with-SWARM-Robotics
+# SwarmScape
 
 THE PROBLEM:
 
