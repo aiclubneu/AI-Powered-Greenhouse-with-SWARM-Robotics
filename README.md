@@ -1,47 +1,7 @@
-# SwarmScape
+### SwarmScape is an AI-Powered Greenhouse Using Swarm Robotics and Google’s Vertex AI
 
-THE PROBLEM:
+The problem we’re trying to solve is that 29% of the world is suffering from food scarcity because of the effects of climate change and global warming. Farmers must find alternatives to regular farming, and greenhouse farming has proven to be the best solution. But, the issue is that greenhouse farming is less productive, more expensive, and limited in scalability. 
 
-More than 29% of the world is suffering from food scarcity, and with climate change and global warming getting worse over the years, the problem is not getting any better.
+Our solution is to create an AI-powered greenhouse using swarm robotics and Google’s Vertex AI. The swarm robots will record data around the greenhouse using sensors and will monitor the environment 24/7. We will then use AI to analyze the environmental data gathered by the robots to make decisions related to pest control, diseases, and crop yield. We expect this solution to increase harvesting efficiency, yield greater crop output, and improve farming sustainability. 
 
-Farmers now have to find alternatives to regular farming as a result of global warming, which is why greenhouse farming has grown so quickly over the last few years. However, greenhouse farming is, less productive, more expensive, higher risk, less diverse, limited on scalability.
-
-All these issues make greenhouse farming less appealing and therefore, doesn't really help in mitigating global hunger.
-
-------------------------------------------------------------------------------------------------------------
-
-OUR SOLUTION:
-
-Creating an AI-Powered Greenhouse With SWARM Robotics 
-
-1.) Using SWARM Robots to
-perform tasks like planting and harvesting
-record data using sensors
-monitor environment 24/7
-
-2.) Using AI to
-Analyze Environmental Data
-Make Adjustments
-Make Decisions related to Pest Control, Diseases, and Crop Yield
-
-3.) Benefits
-Increased Efficiency
-Greater Output 
-Sustainable 
-
-------------------------------------------------------------------------------------------------------------
-
-HOW WILL IT WORK?:
-
--Monitor Crop Health: Use of camera/color sensor to recognize healthy and unhealthy plants.
-
--Recognize Specific Plants:  Be able to recognize each plant and make unique decisions.
-
--Moisture Level: Check the Moisture Level of the Plants and decide whether they need water.
-
--Ready for Harvest: Observe crops and decide whether it’s ready for harvest based on color, size, etc.
-
--Weed Recognition: Use predictive analysis and cameras to recognize, remove, and prevent weeds. 
-
-
-
+We are using 2 robots, a Raspberry Pi 4 and a Pololu 3pi+. The raspberry Pi is primarily used as a data-gathering bot that takes pictures of plants periodically around the greenhouse and the 3pi+ is used to move the pi and the camera around the greenhouse. Finally, all the pictures are put into Google’s Vertex AI software to collect information and make decisions autonomously. So far we have almost finished programming the robots and are moving into the testing phase with real plants to finalize our programs.
